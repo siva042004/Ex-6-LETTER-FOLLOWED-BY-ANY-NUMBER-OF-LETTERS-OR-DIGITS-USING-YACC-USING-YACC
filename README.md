@@ -1,6 +1,6 @@
 # Ex-6 LETTER FOLLOWED BY ANY NUMBER OF LETTERS OR DIGITS USING YACC USING YACC
-# NAME:Akash A
-# REGISTER NUMBER:212221040010
+# NAME:sivaragul.m
+# REGISTER NUMBER:212221040155
 # Date:13.03.2024
 # Aim:
 To write a YACC program to recognize a valid variable which starts with a letter followed by any number of letters or digits.
